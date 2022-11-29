@@ -1,5 +1,5 @@
-# yjwang39.github.io
-Personal Pages
+# Personal Pages
+
 This repo contains the content of my personal page hosted at https://yjwang39.github.io/. 
 
 I write my CV in latex.
