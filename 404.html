@@ -1,6 +1,15 @@
 <!DOCTYPE html><html lang="en-us" >
 
 <head>
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RGLW4S8YDV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RGLW4S8YDV');
+</script>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -239,6 +248,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RGLW4S8YDV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-RGLW4S8YDV', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   <script>
@@ -258,8 +305,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu6c30a69fbb91ced15a46482397d9784b_14164_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu6c30a69fbb91ced15a46482397d9784b_14164_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu6c30a69fbb91ced15a46482397d9784b_14164_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu6c30a69fbb91ced15a46482397d9784b_14164_192x192_fill_lanczos_center_3.png">
 
   <link rel="canonical" href="https://yjwang39.github.io/404.html">
 
@@ -279,8 +326,8 @@
   <meta property="og:site_name" content="Yujuan Wang">
   <meta property="og:url" content="https://yjwang39.github.io/404.html">
   <meta property="og:title" content="404 Page not found | Yujuan Wang">
-  <meta property="og:description" content="PhD Student"><meta property="og:image" content="https://yjwang39.github.io/images/icon_hu6c30a69fbb91ced15a46482397d9784b_14164_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://yjwang39.github.io/images/icon_hu6c30a69fbb91ced15a46482397d9784b_14164_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="PhD Student"><meta property="og:image" content="https://yjwang39.github.io/images/icon_hu6c30a69fbb91ced15a46482397d9784b_14164_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="https://yjwang39.github.io/images/icon_hu6c30a69fbb91ced15a46482397d9784b_14164_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     
   
@@ -669,7 +716,7 @@
   <h2>Latest</h2>
   <ul>
     
-      <li><a href="/publication/wang-climate-2022/">Increased light may halve surface seawater methylmercury in 2100</a></li>
+      <li><a href="/publication/wang-climate-2023/">Increased light may halve surface seawater methylmercury in 2100</a></li>
     
       <li><a href="/talk/hg-icmgp-2022/">Increased Light May Halve Surface Seawater Methylmercury in 2100</a></li>
     
@@ -788,7 +835,7 @@
     
     
     
-    <script src="/js/academic.min.3b2b658c61ebd725bd5fc606c89fe44c.js"></script>
+    <script src="/js/academic.min.f6ecf7692215f2bc4850b72c8176bfa2.js"></script>
 
     
 
@@ -804,7 +851,7 @@
   
 
   <p class="powered-by">
-    © 2022 Yujuan Wang
+    © 2023 Yujuan Wang
   </p>
 
   

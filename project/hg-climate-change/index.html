@@ -1,6 +1,15 @@
 <!DOCTYPE html><html lang="en-us" >
 
 <head>
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RGLW4S8YDV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RGLW4S8YDV');
+</script>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -239,6 +248,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RGLW4S8YDV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-RGLW4S8YDV', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   <script>
@@ -258,8 +305,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu6c30a69fbb91ced15a46482397d9784b_14164_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu6c30a69fbb91ced15a46482397d9784b_14164_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu6c30a69fbb91ced15a46482397d9784b_14164_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu6c30a69fbb91ced15a46482397d9784b_14164_192x192_fill_lanczos_center_3.png">
 
   <link rel="canonical" href="https://yjwang39.github.io/project/hg-climate-change/">
 
@@ -279,8 +326,8 @@
   <meta property="og:site_name" content="Yujuan Wang">
   <meta property="og:url" content="https://yjwang39.github.io/project/hg-climate-change/">
   <meta property="og:title" content="How will future climate change impact marine mercury cycling? | Yujuan Wang">
-  <meta property="og:description" content=""><meta property="og:image" content="https://yjwang39.github.io/images/icon_hu6c30a69fbb91ced15a46482397d9784b_14164_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://yjwang39.github.io/images/icon_hu6c30a69fbb91ced15a46482397d9784b_14164_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content=""><meta property="og:image" content="https://yjwang39.github.io/images/icon_hu6c30a69fbb91ced15a46482397d9784b_14164_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="https://yjwang39.github.io/images/icon_hu6c30a69fbb91ced15a46482397d9784b_14164_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-09-03T13:15:40&#43;08:00">
@@ -324,7 +371,7 @@
     "name": "Yujuan Wang",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://yjwang39.github.io/images/icon_hu6c30a69fbb91ced15a46482397d9784b_14164_192x192_fill_lanczos_center_2.png"
+      "url": "https://yjwang39.github.io/images/icon_hu6c30a69fbb91ced15a46482397d9784b_14164_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": ""
@@ -949,7 +996,7 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/publication/wang-climate-2022/">Increased light may halve surface seawater methylmercury in 2100</a></li>
+      <li><a href="/publication/wang-climate-2023/">Increased light may halve surface seawater methylmercury in 2100</a></li>
       
       <li><a href="/publication/wang-thesis-2020/">Impact of 21st Century Climate Change on Marine Mercury Cycle</a></li>
       
@@ -997,14 +1044,22 @@
 
 
 
+  
+
 
 <div class="media stream-item">
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/wang-climate-2022/" >Increased light may halve surface seawater methylmercury in 2100</a>
+      <a href="/publication/wang-climate-2023/" >Increased light may halve surface seawater methylmercury in 2100</a>
     </h3>
 
+    
+    <a href="/publication/wang-climate-2023/" class="summary-link">
+      <div class="article-style">
+        Human exposure to monomethylmercury (CH$_3$Hg), a potent neurotoxin, is principally through the consumption of seafood. The formation …
+      </div>
+    </a>
     
 
     <div class="stream-meta article-metadata">
@@ -1033,17 +1088,31 @@
 
 
   
+    
+  
 
 
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.pnas.org/doi/epdf/10.1073/pnas.2202488120" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/wang-climate-2022/cite.bib">
+        data-filename="/publication/wang-climate-2023/cite.bib">
   Cite
 </button>
 
 
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://data.mendeley.com/datasets/br2psms8b9" target="_blank" rel="noopener">
+  Dataset
+</a>
 
 
 
@@ -1069,6 +1138,11 @@
   </div>
   <div class="ml-3">
     
+    
+    
+    <a href="/publication/wang-climate-2023/" >
+      <img src="/publication/wang-climate-2023/featured_hu272e39f9169ad48c63a107328f1213a1_1275413_150x0_resize_q90_lanczos.jpg" alt="Increased light may halve surface seawater methylmercury in 2100">
+    </a>
     
   </div>
 </div>
@@ -1523,7 +1597,7 @@
     
     
     
-    <script src="/js/academic.min.3b2b658c61ebd725bd5fc606c89fe44c.js"></script>
+    <script src="/js/academic.min.f6ecf7692215f2bc4850b72c8176bfa2.js"></script>
 
     
 
@@ -1539,7 +1613,7 @@
   
 
   <p class="powered-by">
-    © 2022 Yujuan Wang
+    © 2023 Yujuan Wang
   </p>
 
   
