@@ -1,0 +1,14 @@
+/* Custom Green Tone Theme */
+:root {
+  --color-primary-50: 237 241 214;   /* #EDF1D6 - 非常浅的绿黄色 */
+  --color-primary-100: 205 224 179;  /* #D1E0B3 - 浅绿黄色 */
+  --color-primary-200: 157 192 139;  /* #9DC08B - 柔和的绿色 */
+  --color-primary-300: 125 170 112;  /* #7DAA72 - 中等绿色 */
+  --color-primary-400: 96 153 102;   /* #609966 - 深绿色 */
+  --color-primary-500: 75 130 89;    /* #4B8259 - 更深绿色 */
+  --color-primary-600: 64 105 70;    /* #40694B - 深绿色 */
+  --color-primary-700: 54 81 59;     /* #36513B - 更深的橄榄绿色 */
+  --color-primary-800: 48 65 48;     /* #304130 - 非常深的绿色 */
+  --color-primary-900: 40 51 43;     /* #28332B - 极深的绿色 */
+  --color-primary-950: 32 43 34;     /* #202A22 - 最深色 */
+}
