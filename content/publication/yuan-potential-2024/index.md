@@ -8,7 +8,7 @@ authors:
 - Zhengcheng Song
 - Jun Ge
 - Xin Miao
-- Yujuan Wang
+- admin
 - Qiaotong Pang
 - Dong Peng
 - Peipei Wu
@@ -25,8 +25,9 @@ publication_types:
 publication: '*Nature Communications*'
 doi: 10.1038/s41467-024-48849-2
 tags:
-- Biogeochemistry
-- Ecology
-- Environmental sciences
-- Plant sciences
+ - Biogeochemistry
+ - Climate Change
+ - Mercury Cycle
+ - CESM
+
 ---

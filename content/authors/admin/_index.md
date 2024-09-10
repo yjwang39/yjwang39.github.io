@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 王雨涓
+title: Yujuan Wang
 
 # Name pronunciation (optional)
-name_pronunciation: Wang, Yujuan
+name_pronunciation: Yoo-jwan, Wahng
 
 # Full name (for SEO)
 first_name: Yujuan
@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: hero/envelope
+  - icon: hero/envelope-solid
     url: 'mailto:yjwang@smail.nju.edu.cn'
     label: E-mail Me
   - icon: academicons/orcid
@@ -50,7 +50,7 @@ interests:
 education:
   - area: Ph.D. in Atmospheric Sciences
     institution: Nanjing University
-    date_start: 2020
+    date_start: 2020-09-01
     date_end: ''
     summary: |
       Thesis on _Modeling mercury cycling in the Earth's history and future_. Supervised by [Prof. Yanxu Zhang](https://sse.tulane.edu/yanxu-zhang). 
@@ -59,8 +59,8 @@ education:
     #   url: 'https://example.com'
   - area: B.Sc. in Atmospheric Sciences
     institution: Nanjing University
-    date_start: 2016
-    date_end: 2020
+    date_start: 2016-09-01
+    date_end: 2020-06-30
     summary: |
       Advanced Program in Earth System Science and Environment - 2016 – 2018
       
@@ -96,22 +96,44 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Modeling
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: devicon/powershell
+  - name: Programming
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: devicon/python
+      - name: markdown
+        description: ''
+        percent: 100
+        icon: devicon/markdown
+      - name: LaTex
+        description: ''
+        percent: 40
+        icon: devicon/latex
+      - name: Linux
+        description: ''
+        icon: devicon/linux
+      - name: MacOS
+        description: ''
+        icon: devicon/apple
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
     items:
       - name: Music
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: hero/musical-note-solid
+      - name: Video making
+        description: ''
+        percent: 60
+        icon: devicon/premierepro
       - name: Photography
         description: ''
         percent: 80
-        icon: camera
+        icon: hero/camera-solid
 
 languages:
   - name: Chinese

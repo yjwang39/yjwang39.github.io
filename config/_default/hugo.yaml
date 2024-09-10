@@ -51,8 +51,8 @@ imaging:
 timeout: 600000
 
 taxonomies:
+  author: authors
   tag: tags
-  category: categories
   publication_type: publication_types
 
 markup:
@@ -67,8 +67,6 @@ related:
   indices:
     - name: tags
       weight: 100
-    - name: categories
-      weight: 70
 
 security:
   _merge: deep

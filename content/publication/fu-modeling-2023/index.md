@@ -6,7 +6,7 @@ authors:
 - Qiaotong Pang
 - Suo Lang Zhuo Ga
 - Peipei Wu
-- Yujuan Wang
+- admin
 - Mao Mao
 - Zhen Yuan
 - Xiangrong Xu
@@ -23,6 +23,5 @@ doi: 10.1016/j.oneear.2023.05.012
 tags:
 - GEOS-Chem
 - microplastic
-- optimal estimation
-- sea spray
+- emission
 ---

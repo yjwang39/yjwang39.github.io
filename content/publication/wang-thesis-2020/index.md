@@ -9,7 +9,7 @@ authors:
 tags: ["Climate Change", "Mercury Cycle", "Biogeochemistry"]
 categories: []
 date: '2020-06-10'
-featured: false
+featured: true
 draft: true
 
 # Featured image
@@ -26,7 +26,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-08-31T15:21:32.002862Z'
 publication_types: ['thesis']
 abstract: ''
 publication: 'NJU Bachelor thesis'
