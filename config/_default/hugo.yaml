@@ -84,7 +84,7 @@ cascade:
     editable: true
     reading_time: true
     commentable: true
-    show_related: true
+    show_related: false
     show_breadcrumb: true
     share: true
 

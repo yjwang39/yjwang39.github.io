@@ -18,13 +18,12 @@ publication: '*Geoscientific Model Development Discussions*'
 doi: 10.5194/gmd-2024-109
 
 tags: 
- - Aerosols
+ - Aerosol
  - Emission
  - CESM
 
 math: true
-abstract: Human exposure to monomethylmercury ($CH_{3}Hg$), a potent neurotoxin, is principally through the consumption of seafood. The formation of $CH_{3}Hg$ and its bioaccumulation in marine food webs experience ongoing impacts of global climate warming and ocean biogeochemistry alterations. Employing a series of sensitivity experiments, here we explicitly consider the effects of climate change on marine mercury (Hg) cycling within a global ocean model in the hypothesized twenty-first century under the business-as-usual scenario. Even though the overall prediction is subjected to significant uncertainty, we identify several important climate change impact pathways. Elevated seawater temperature exacerbates elemental Hg (Hg0) evasion, while decreased surface wind speed reduces air-sea exchange rates. The reduced export of particulate organic carbon shrinks the pool of potentially bioavailable divalent Hg (HgII) that can be methylated in the subsurface ocean, where shallower remineralization depth associated with lower productivity causes impairment of methylation activity. We also simulate an increase in $CH_{3}Hg$ photodemethylation potential caused by increased incident shortwave radiation and less attenuation by decreased sea ice and chlorophyll. The model suggests that these impacts can also be propagated to the $CH_{3}Hg$ concentration in the base of the marine food web. Our results offer insight into synergisms/antagonisms in the marine Hg cycling among different climate change stressors.
-summary: Global climate change exerts a grand challenge to human society in this century. One concern is that climate change will accelerate the formation of seawater methylmercury, a potent neurotoxin, that is accumulated by fish and eventually consumed by top predators and humans. Our study, however, shows that within a worst-case scenario devoid of additional efforts to restrain human perturbations, a projected decrease in oceanic methylmercury levels due to global climate change could buy us time. Alongside global efforts to reduce anthropogenic mercury emissions, we can effectively reduce human methylmercury exposure and the related human health risk in this century.
+abstract: Aerosols constitute important substance components of the Earth's atmosphere and have a profound influence on climate dynamics, radiative properties, and biogeochemical processes. Here we introduce updated emission schemes for dust, sea-salt, and marine primary organic aerosols (MPOA), as well as augment secondary organic aerosol (SOA) formation pathways within the Community Earth System Model (CESM; version 2.1.3). The modified dust emission scheme shifts the original hotspot-like dust emission to a more continuous distribution, improving the dust aerosol optical depth (DAOD) simulations at stations in North Africa and Central Asia. This update also reduces dust residence time from 4.1 days to 1.6 days, enhancing concentration simulations downwind of dust source regions. For sea-salt emissions, we incorporate an updated sea surface temperature (SST) modulation and introduce a relative-humidity-dependent correction factor for sea-salt particle size with SST having a significantly larger impact on sea-salt emissions (16.1%) compared to the minor effect of humidity (-0.3%). We then extend to incorporate emissions of marine primary organic aerosols (MPOA) as externally mixed with sea-salt aerosols, coupled offline with ocean component Parallel Ocean Program (POP2). The results underscore the substantial influence of phytoplankton diversity on MPOA emissions, with 148% variability simulated among different phytoplankton types, highlighting the role of biological variability in aerosol modeling. Furthermore, we refine the model’s chemical mechanisms by including the irreversible aqueous uptake of dicarbonyl compounds as a new pathway for SOA formation, contributing an additional 37% to surface SOA concentrations. These improvements enrich the capability of the CESM to use intricate linkage between different components of the Earth system, thereby enabling a more comprehensive description of natural aerosol emissions, chemical processes, and their impacts.
 
 projects: [natural-emission-aerosol]
 
@@ -39,6 +38,6 @@ image:
 links:
 url_pdf: https://gmd.copernicus.org/preprints/gmd-2024-109/gmd-2024-109.pdf
 url_dataset: https://zenodo.org/records/11488849
-url_poster: 'banner.jpg'
+url_poster: 'banner.png'
 
 ---

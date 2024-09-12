@@ -11,7 +11,7 @@
   {{ else }}
     {{ $link = . | relURL }}
   {{ end }}
-  <a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent px-3 py-1 text-xs" href="{{ $link }}" target="_blank" rel="noopener">
+  <a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent hover:text-white hover:bg-primary-700 mr-1 mb-1 px-3 py-1 text-xs" href="{{ $link }}" target="_blank" rel="noopener">
     {{ i18n "btn_preprint" }}
   </a>
 {{ end }}
@@ -27,7 +27,7 @@
 
 
 {{ with $pdf }}
-<a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent px-3 py-1 text-xs" href="{{ . }}" target="_blank" rel="noopener">
+<a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent hover:text-white hover:bg-primary-700 mr-1 mb-1 px-3 py-1 text-xs" href="{{ . }}" target="_blank" rel="noopener">
   {{ partial "functions/get_icon" (dict "name" "document-text" "attributes" "style=\"height: 1em\" class='inline-block'") }}
   {{ i18n "btn_pdf" }}
 </a>
@@ -36,7 +36,7 @@
 {{ if $page.Params.projects }}
 {{ range $page.Params.projects }}
   {{ with (site.GetPage (printf "project/%s" .)) }}
-  <a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent px-3 py-1 text-xs" href="{{ .RelPermalink }}">
+  <a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent hover:text-white hover:bg-primary-700 mr-1 mb-1 px-3 py-1 text-xs" href="{{ .RelPermalink }}">
     {{ i18n "btn_project" }}
   </a>
   {{ else }}
@@ -45,7 +45,7 @@
 {{ end }}
 {{ else }}
 {{ with $page.Params.url_project }}
-<a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent px-3 py-1 text-xs" href="{{ . }}" target="_blank" rel="noopener">
+<a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent hover:text-white hover:bg-primary-700 mr-1 mb-1 px-3 py-1 text-xs" href="{{ . }}" target="_blank" rel="noopener">
   {{ i18n "btn_project" }}
 </a>
 {{ end }}
@@ -58,14 +58,14 @@
   {{ else }}
     {{ $link = . | relURL }}
   {{ end }}
-<a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent px-3 py-1 text-xs" href="{{ $link }}" target="_blank" rel="noopener">
+<a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent hover:text-white hover:bg-primary-700 mr-1 mb-1 px-3 py-1 text-xs" href="{{ $link }}" target="_blank" rel="noopener">
   {{ partial "functions/get_icon" (dict "name" "photo" "attributes" "style=\"height: 1em\" class='inline-block'") }}
   {{ i18n "btn_poster" }}
 </a>
 {{ end }}
 {{ if $page.Params.slides }}
   {{ with (site.GetPage (printf "slides/%s" $page.Params.slides)) }}
-  <a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent px-3 py-1 text-xs" href="{{ .RelPermalink }}" target="_blank">
+  <a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent hover:text-white hover:bg-primary-700 mr-1 mb-1 px-3 py-1 text-xs" href="{{ .RelPermalink }}" target="_blank">
     {{ partial "functions/get_icon" (dict "name" "presentation-chart-bar" "attributes" "style=\"height: 1em\" class='inline-block'") }}
     {{ i18n "btn_slides" }}
   </a>
@@ -78,7 +78,7 @@
   {{ else }}
     {{ $link = . | relURL }}
   {{ end }}
-  <a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent px-3 py-1 text-xs" href="{{ $link }}" target="_blank" rel="noopener">
+  <a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent hover:text-white hover:bg-primary-700 mr-1 mb-1 px-3 py-1 text-xs" href="{{ $link }}" target="_blank" rel="noopener">
     {{ partial "functions/get_icon" (dict "name" "presentation-chart-bar" "attributes" "style=\"height: 1em\" class='inline-block'") }}
     {{ i18n "btn_slides" }}
   </a>
@@ -91,7 +91,7 @@
   {{ else }}
     {{ $link = . | relURL }}
   {{ end }}
-<a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent px-3 py-1 text-xs" href="{{ $link }}" target="_blank" rel="noopener">
+<a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent hover:text-white hover:bg-primary-700 mr-1 mb-1 px-3 py-1 text-xs" href="{{ $link }}" target="_blank" rel="noopener">
   {{ partial "functions/get_icon" (dict "name" "circle-stack" "attributes" "style=\"height: 1em\" class='inline-block'") }}
   {{ i18n "btn_dataset" }}
 </a>
@@ -103,7 +103,7 @@
   {{ else }}
     {{ $link = . | relURL }}
   {{ end }}
-<a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent px-3 py-1 text-xs" href="{{ $link }}" target="_blank" rel="noopener">
+<a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent hover:text-white hover:bg-primary-700 mr-1 mb-1 px-3 py-1 text-xs" href="{{ $link }}" target="_blank" rel="noopener">
   {{ partial "functions/get_icon" (dict "name" "code-bracket" "attributes" "style=\"height: 1em\" class='inline-block'") }}
   {{ i18n "btn_code" }}
 </a>
@@ -115,7 +115,7 @@
   {{ else }}
     {{ $link = . | relURL }}
   {{ end }}
-<a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent px-3 py-1 text-xs" href="{{ $link }}" target="_blank" rel="noopener">
+<a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent hover:text-white hover:bg-primary-700 mr-1 mb-1 px-3 py-1 text-xs" href="{{ $link }}" target="_blank" rel="noopener">
   {{ partial "functions/get_icon" (dict "name" "video-camera" "attributes" "style=\"height: 1em\" class='inline-block'") }}
   {{ i18n "btn_video" }}
 </a>
@@ -127,7 +127,7 @@
   {{ else }}
     {{ $link = . | relURL }}
   {{ end }}
-<a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent px-3 py-1 text-xs" href="{{ $link }}" target="_blank" rel="noopener">
+<a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent hover:text-white hover:bg-primary-700 mr-1 mb-1 px-3 py-1 text-xs" href="{{ $link }}" target="_blank" rel="noopener">
   {{ partial "functions/get_icon" (dict "name" "document" "attributes" "style=\"height: 1em\" class='inline-block'") }}
   {{ i18n "btn_source" }}
 </a>
@@ -152,7 +152,7 @@
   {{ else if in (slice "http" "https") $scheme }}
     {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
   {{ end }}
-  <a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent px-3 py-1 text-xs" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+  <a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent hover:text-white hover:bg-primary-700 mr-1 mb-1 px-3 py-1 text-xs" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
     {{ partial "functions/get_icon" (dict "name" "link" "attributes" "style=\"height: 1em\" class='inline-block'") }}
     {{ if .icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} {{if .name}}mr-1{{end}}"></i>{{end}}
     {{- with .name }}{{ . | safeHTML }}{{ end -}}
@@ -161,7 +161,7 @@
 
 {{ $resource := $page.Resources.GetMatch "cite.bib" }}
 {{ with $resource }}
-<a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent px-3 py-1 text-xs" href="{{ .RelPermalink }}" target="_blank" data-filename="{{ .RelPermalink }}">
+<a class="inline-block text-primary-700 capital font-medium rounded border border-primary-100 bg-transparent hover:text-white hover:bg-primary-700 mr-1 mb-1 px-3 py-1 text-xs" href="{{ .RelPermalink }}" target="_blank" data-filename="{{ .RelPermalink }}">
   {{ partial "functions/get_icon" (dict "name" "document-duplicate" "attributes" "style=\"height: 1em\" class='inline-block'") }}
   {{ i18n "btn_cite" }}
 </a>

@@ -1,4 +1,71 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research | Yujuan Wang</title><link>http://localhost:1313/project/</link><atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml"/><description>Research</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>http://localhost:1313/media/icon_hu5690424224879592292.png</url><title>Research</title><link>http://localhost:1313/project/</link></image><item><title>How will future climate change impact marine mercury cycling?</title><link>http://localhost:1313/project/hg-climate-change/</link><pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate><guid>http://localhost:1313/project/hg-climate-change/</guid><description>&lt;p>Global climate change exerts a grand challenge to human society in this century. One concern is that climate change will accelerate the formation of seawater methylmercury, a potent neurotoxin, that is accumulated by fish and eventually consumed by top predators and humans. Our study, however, shows that within a worst-case scenario devoid of additional efforts to restrain human perturbations, a projected decrease in oceanic methylmercury levels due to global climate change could buy us time. Alongside global efforts to reduce anthropogenic mercury emissions, we can effectively reduce human methylmercury exposure and the related human health risk in this century.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research | Yujuan Wang</title><link>http://localhost:1313/project/</link><atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml"/><description>Research</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>http://localhost:1313/media/icon_hu5690424224879592292.png</url><title>Research</title><link>http://localhost:1313/project/</link></image><item><title/><link>http://localhost:1313/project/paleo-box-model/</link><pubDate>Thu, 20 Oct 2022 13:15:40 +0800</pubDate><guid>http://localhost:1313/project/paleo-box-model/</guid><description/></item><item><title>CoAerM-CESM: an updated aerosol module for dust, marine aerosol emissions, and secondary organic aerosol formation</title><link>http://localhost:1313/project/natural-emission-aerosol/</link><pubDate>Thu, 20 Oct 2022 13:15:40 +0800</pubDate><guid>http://localhost:1313/project/natural-emission-aerosol/</guid><description>&lt;p>Aerosols play a crucial role in shaping Earth&amp;rsquo;s climate, influencing radiative properties, weather patterns, and biogeochemical processes. Our research has advanced the representation of aerosols in the Community Earth System Model (CESM) by developing updated emission schemes for dust, sea-salt, and marine primary organic aerosols (MPOA). These updates improve dust aerosol optical depth simulations and shorten dust residence time, leading to more accurate concentration predictions in regions like North Africa and Central Asia. Additionally, our modifications to the sea-salt emission scheme, which account for sea surface temperature and humidity, further refine the accuracy of these emissions.
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="Coupling framework" srcset="
+/project/natural-emission-aerosol/coupling_hu751340147848535024.webp 400w,
+/project/natural-emission-aerosol/coupling_hu5354051813765399565.webp 760w,
+/project/natural-emission-aerosol/coupling_hu2559429507662298367.webp 1200w"
+src="http://localhost:1313/project/natural-emission-aerosol/coupling_hu751340147848535024.webp"
+width="760"
+height="397"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+We also extended the model to incorporate MPOA emissions, highlighting the substantial impact of phytoplankton diversity on aerosol formation. By coupling these emissions with the ocean&amp;rsquo;s physical and biological processes, we capture a more nuanced interaction between marine ecosystems and atmospheric aerosols. This approach demonstrates the critical role biological variability plays in shaping aerosol dynamics, emphasizing the importance of integrating oceanic data in atmospheric modeling.&lt;/p>
+&lt;p>In addition to emission updates, we improved CESM’s chemical processes by introducing a new pathway for secondary organic aerosol (SOA) formation. This new mechanism, which includes the irreversible uptake of dicarbonyl compounds, enhances the model’s ability to simulate natural aerosol formation and distribution. Overall, these enhancements to CESM provide a more comprehensive understanding of how natural aerosols are produced and how they interact with the Earth’s climate system, paving the way for better predictions of future climate scenarios.&lt;/p></description></item><item><title>How will future climate change impact marine mercury cycling?</title><link>http://localhost:1313/project/hg-climate-change/</link><pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate><guid>http://localhost:1313/project/hg-climate-change/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="Summary" srcset="
+/project/hg-climate-change/banner_hu1937038408508529567.webp 400w,
+/project/hg-climate-change/banner_hu15603678290950494332.webp 760w,
+/project/hg-climate-change/banner_hu9772155092117699647.webp 1200w"
+src="http://localhost:1313/project/hg-climate-change/banner_hu1937038408508529567.webp"
+width="612"
+height="300"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Mercury (Hg) is a persistent global pollutant, and its transformation in the ocean plays a critical role in its biogeochemical cycle. Methylmercury (CH3Hg), a potent neurotoxin formed by marine microbes, accumulates through the marine food web, ultimately affecting human health through seafood consumption. Climate change, driven by human activities, has caused significant alterations in ocean conditions—such as rising temperatures, acidification, and biodiversity loss—that influence mercury cycling and its uptake by marine organisms.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="Minamata Convention" srcset="
+/project/hg-climate-change/f3_hu14181772201823671215.webp 400w,
+/project/hg-climate-change/f3_hu7336428582799659240.webp 760w,
+/project/hg-climate-change/f3_hu12346642124717003567.webp 1200w"
+src="http://localhost:1313/project/hg-climate-change/f3_hu14181772201823671215.webp"
+width="661"
+height="443"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>One concern raised by climate-induced changes in the oceans is the potential increase of neurotoxic methylmercury in seafood. In our study, we examined how global climate change, under a business-as-usual emission scenario, affects the global ocean mercury cycle by integrating data from 3D marine biogeochemical, ecosystem, and Earth system models. We identified several key pathways through which climate change alters marine mercury dynamics. These include reduced air-sea exchange due to weaker winds, decreased particulate organic carbon export affecting mercury deposition, and increased photodemethylation of methylmercury due to higher shortwave radiation. Collectively, these changes suggest a complex interaction between physical, chemical, and biological factors that influence mercury levels in the oceans. &lt;em>This following video provides a brief illustration of the impact pathways identified in our research.&lt;/em>&lt;/p>
 &lt;video controls >
-&lt;source src="http://localhost:1313/project/hg-climate-change/PNAS-Hg-summary.mov" type="video/quicktime">
-&lt;/video></description></item><item><title>CoAerM-CESM</title><link>http://localhost:1313/project/natural-emission-aerosol/</link><pubDate>Wed, 20 Oct 2021 13:15:40 +0800</pubDate><guid>http://localhost:1313/project/natural-emission-aerosol/</guid><description/></item></channel></rss>
+&lt;source src="http://localhost:1313/project/hg-climate-change/PNAS-Hg-summary.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>Our research offers a broad perspective on this issue, highlighting the intricate interplay of factors, including climate dynamics and ocean ecology. Our findings reveal that while some aspects of climate change exacerbate mercury release, others, such as enhanced photodegradation of methylmercury, may reduce its concentration in seawater and marine life. This could buy us time to mitigate the release of mercury into the environment. Our results underscore the necessity of a holistic approach to studying the impact of climate change, considering both its potential benefits and detriments. This insight is valuable for guiding future policymaking, aligning it with multiple planetary boundaries, and fostering sustainable practices in a changing world.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="Climate change" srcset="
+/project/hg-climate-change/f2_hu14018838963856213193.webp 400w,
+/project/hg-climate-change/f2_hu10413155119242990557.webp 760w,
+/project/hg-climate-change/f2_hu5999016353693452382.webp 1200w"
+src="http://localhost:1313/project/hg-climate-change/f2_hu14018838963856213193.webp"
+width="727"
+height="446"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="Summary" srcset="
+/project/hg-climate-change/featured_hu16490158821945323521.webp 400w,
+/project/hg-climate-change/featured_hu10425428705667988523.webp 760w,
+/project/hg-climate-change/featured_hu3324733506018108328.webp 1200w"
+src="http://localhost:1313/project/hg-climate-change/featured_hu16490158821945323521.webp"
+width="760"
+height="285"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item></channel></rss>
