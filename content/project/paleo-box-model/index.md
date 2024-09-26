@@ -2,11 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: ""
-summary: "This update improves the accuracy of aerosol simulations and highlights the impact of biological variability on emissions, enhancing the model's ability to represent complex aerosol processes and their climate effects."
-authors: [admin, Peng Zhang, Jiawei Li, Zhiwei Han, Yanxu Zhang]
-tags: ["Aerosol", "Emission", "CESM"]
-date: 2022-10-20T13:15:40+08:00
-publish_date: 2024-12-20
+summary: ""
+authors: [admin, Ling Li, Yanxu Zhang]
+tags: ["Paleo", "Mercury", "box model"]
+date: 2023-10-20T13:15:40+08:00
+publishDate: 2024-12-20T13:15:40+08:00
+draft: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

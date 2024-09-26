@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: 2022-11-30T15:52:30+08:00
 
-authors: [Yujuan Wang, Peipei Wu, Yanxu Zhang]
+authors: [admin, Peipei Wu, Yanxu Zhang]
 tags: ["Climate Change", "Mercury Cycle", "Methylmercury"]
 
 # Is this a featured talk? (true/false)

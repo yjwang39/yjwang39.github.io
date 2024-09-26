@@ -67,10 +67,10 @@ education:
       Atmospheric Sciences - 2018 – 2020
       
       Key Courses:
+        - Physical Geography (100)
         - Geophysical Fluid Dynamics (97)
         - Numerical Weather Prediction (95)
-        - Atmospheric Chemistry (95)
-        - Physical Geography (100)
+        - Atmospheric Chemistry (95)        
         - Principle of Solid Earth Sciences (94)
 # work:
 #   - position: Backend Software Engineer
@@ -86,34 +86,45 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Numerical Models
+    description: 'Experience with'
     items:
-      - name: Python
+      - name: CESM
         description: ''
-        percent: 80
+        icon: hero/cube-solid
+      - name: MITgcm
+        description: ''
+        icon: hero/arrow-path
+      - name: GEOS-Chem
+        description: ''
+        icon: hero/square-3-stack-3d-solid
+      - name: WRF-Chem
+        description: ''
+        icon: hero/rectangle-group-solid
+  - name: Programming Languages
+    description: 'Proficient in'
+    items:
+      - name: FORTRAN
+        description: ''
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Modeling
-        description: ''
-        percent: 40
-        icon: devicon/powershell
-  - name: Programming
-    items:
       - name: Python
         description: ''
-        percent: 80
         icon: devicon/python
-      - name: markdown
+      - name: Matlab
         description: ''
-        percent: 100
-        icon: devicon/markdown
+        icon: devicon/matlab
+      - name: C
+        description: ''
+        icon: hero/code-bracket-square
+      - name: NCL
+        description: ''
+        icon: hero/cog-8-tooth
       - name: LaTex
         description: ''
-        percent: 40
         icon: devicon/latex
+  - name: Operating Platforms
+    description: 'Familiar with'
+    items:
       - name: Linux
         description: ''
         icon: devicon/linux
@@ -147,14 +158,13 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: Neural Networks and Deep Learning
-#     url: https://www.coursera.org/learn/neural-networks-deep-learning
-#     date: '2023-11-25'
-#     awarder: Coursera
-#     icon: coursera
-#     summary: |
-#       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+awards:
+  - title: China National Scholarship for PhD Student
+    date: '2023-12-25'
+    awarder: Ministry of Education
+  - title: China National Scholarship for Undergraduate Student
+    date: '2018-12-25'
+    awarder: Ministry of Education
 
 ---
 

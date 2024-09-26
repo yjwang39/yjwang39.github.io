@@ -4,14 +4,8 @@
 title: "Climate-driven changes in marine mercury cycle in the 21st century"
 event: "第七届青年地学论坛 (The 7th Young Scientist Forum of Earth Science)"
 event_url: "http://www.qndxlt.com/index.html"
-location:
-address:
-  street:
-  city: "Guiyang"
-  region: "Guizhou"
-  postcode:
-  country: "China"
-summary: "A talk in Chinese."
+location: "Guiyang, China"
+summary: "This study provides a clearer understanding of the feedback mechanisms affecting the future marine mercury cycle through a sensitivity experimental design."
 abstract: "This study provides a clearer understanding of the feedback mechanisms affecting the future marine mercury cycle through a sensitivity experimental design. This could be of great importance for understanding the impact of climate change on the evolution of marine mercury biogeochemical cycle, and has implications for further insight into the future distribution of environmental mercury pollution under global warming conditions, the mercury exposure level of the population and its possible health risks."
 
 # Talk start and end times.
@@ -23,7 +17,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2021-11-19T23:33:10+08:00
 
-authors: [Yujuan Wang, Yanxu Zhang]
+authors: [admin, Yanxu Zhang]
 tags: ["Climate Change", "Mercury Cycle", "Methylmercury"]
 
 # Is this a featured talk? (true/false)
@@ -34,7 +28,7 @@ featured: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
+  focal_point: "TopLeft"
   preview_only: false
 
 # Custom links (optional).

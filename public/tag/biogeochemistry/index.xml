@@ -1,6 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biogeochemistry | Yujuan Wang</title><link>http://localhost:1313/tag/biogeochemistry/</link><atom:link href="http://localhost:1313/tag/biogeochemistry/index.xml" rel="self" type="application/rss+xml"/><description>Biogeochemistry</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate><image><url>http://localhost:1313/media/icon_hu5690424224879592292.png</url><title>Biogeochemistry</title><link>http://localhost:1313/tag/biogeochemistry/</link></image><item><title>Potential Decoupling of CO2 and Hg Uptake Process by Global Vegetation in the 21st Century</title><link>http://localhost:1313/publication/yuan-potential-2024/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/yuan-potential-2024/</guid><description/></item><item><title>How will future climate change impact marine mercury cycling?</title><link>http://localhost:1313/project/hg-climate-change/</link><pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate><guid>http://localhost:1313/project/hg-climate-change/</guid><description>&lt;p>Mercury (Hg) is a persistent global pollutant. The ocean, as an important reservoir of mercury, plays a central role in the biogeochemical cycle of Hg: monomethylmercury (CH3Hg), formed through methylation by marine microbes, is an environmental neurotoxin that can be absorbed by planktons and biomagnified through the marine food chain/web. Human exposure to CH3Hg most commonly occurs through seafood ingestion and raises serious concerns in public health. Since industrialization, the ocean has been continuously affected by anthropogenic climate change: temperature increase, ocean acidification, ecosystem diversity loss…… The transformation and bio-uptake of Hg and its compounds in the marine environment are regulated by marine biogeochemical conditions. Understanding the response of the global marine mercury cycle in the context of climate change is important for determining the future Hg-related health risks and developing regulatory strategies to reduce emissions.&lt;/p>
-&lt;p>One concern raised by climate-induced changes in the oceans is the potential increase of neurotoxic methylmercury in seafood. However, the mode of influence and its underlying mechanisms remain unknown. In this study, we quantified the impacts of different aspects of global climate change on the global ocean mercury cycle at the end of 21st century under a business-as-usual emission scenario by designing sensitivity analysis experiments and using cross-disciplinary methods and data from 3D marine biogeochemical models, marine ecosystem models, and Earth system models. They identified several important impact pathways in the future oceanic mercury cycle: elevated seawater temperature decreases the solubility of elemental Hg, exacerbating its escape at the air-sea interface. Weakened winds near the sea surface reduces the rate of air-sea exchange. The reduced export of particulate organic carbon reduces the sinking flux of particulate Hg, thus reducing the supply of inorganic Hg in the subsurface ocean; the reduction in productivity also reduces microbial methylation activities. They also simulated an increase in CH3Hg photodemethylation potential caused by increased incident shortwave radiation and less attenuation by decreased sea ice and chlorophyll. To sum up, this study quantitatively identifies the effects of various physical, chemical, and biological factors of climate change on marine inorganic Hg and CH3Hg concentrations and their distributions. The results offered insight into the synergisms/antagonisms in the marine Hg cycling among different climate change stressors.&lt;/p>
-&lt;p>Our research offers a broad perspective on this issue, highlighting the intricate interplay of factors, including climate dynamics and ocean ecology. These multifaceted mechanisms can either amplify or counterbalance each other, creating a complex impact in the coming century. We reveal that alterations in wind speed, rising seawater temperatures, and a reduced biological pump affect marine mercury cycling. Among these complex interactions, changes in light conditions could enhance the degradation of methylmercury, significantly reducing its presence in seawater and marine life. This, in turn, could buy us time to mitigate the release of mercury into the environment. Our results underscore the necessity of a holistic approach to studying the impact of climate change, considering both its potential benefits and detriments. This insight is valuable for guiding future policymaking, aligning it with multiple planetary boundaries, and fostering sustainable practices in a changing world.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biogeochemistry | Yujuan Wang</title><link>http://localhost:1313/tag/biogeochemistry/</link><atom:link href="http://localhost:1313/tag/biogeochemistry/index.xml" rel="self" type="application/rss+xml"/><description>Biogeochemistry</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate><image><url>http://localhost:1313/media/icon_hu5690424224879592292.png</url><title>Biogeochemistry</title><link>http://localhost:1313/tag/biogeochemistry/</link></image><item><title>Potential Decoupling of CO2 and Hg Uptake Process by Global Vegetation in the 21st Century</title><link>http://localhost:1313/publication/yuan-potential-2024/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/yuan-potential-2024/</guid><description/></item><item><title>Climate-Driven Changes of Global Marine Mercury Cycles in 2100</title><link>http://localhost:1313/publication/wang-climate-driven-2023/</link><pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/wang-climate-driven-2023/</guid><description/></item><item><title>How will future climate change impact marine mercury cycling?</title><link>http://localhost:1313/project/hg-climate-change/</link><pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate><guid>http://localhost:1313/project/hg-climate-change/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="Summary" srcset="
+/project/hg-climate-change/banner_hu1937038408508529567.webp 400w,
+/project/hg-climate-change/banner_hu15603678290950494332.webp 760w,
+/project/hg-climate-change/banner_hu9772155092117699647.webp 1200w"
+src="http://localhost:1313/project/hg-climate-change/banner_hu1937038408508529567.webp"
+width="612"
+height="300"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Mercury (Hg) is a persistent global pollutant, and its transformation in the ocean plays a critical role in its biogeochemical cycle. Methylmercury (CH3Hg), a potent neurotoxin formed by marine microbes, accumulates through the marine food web, ultimately affecting human health through seafood consumption. Climate change, driven by human activities, has caused significant alterations in ocean conditions—such as rising temperatures, acidification, and biodiversity loss—that influence mercury cycling and its uptake by marine organisms.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="Minamata Convention" srcset="
+/project/hg-climate-change/f3_hu14181772201823671215.webp 400w,
+/project/hg-climate-change/f3_hu7336428582799659240.webp 760w,
+/project/hg-climate-change/f3_hu12346642124717003567.webp 1200w"
+src="http://localhost:1313/project/hg-climate-change/f3_hu14181772201823671215.webp"
+width="661"
+height="443"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>One concern raised by climate-induced changes in the oceans is the potential increase of neurotoxic methylmercury in seafood. In our study, we examined how global climate change, under a business-as-usual emission scenario, affects the global ocean mercury cycle by integrating data from 3D marine biogeochemical, ecosystem, and Earth system models. We identified several key pathways through which climate change alters marine mercury dynamics. These include reduced air-sea exchange due to weaker winds, decreased particulate organic carbon export affecting mercury deposition, and increased photodemethylation of methylmercury due to higher shortwave radiation. Collectively, these changes suggest a complex interaction between physical, chemical, and biological factors that influence mercury levels in the oceans. &lt;em>This following video provides a brief illustration of the impact pathways identified in our research.&lt;/em>&lt;/p>
 &lt;video controls >
 &lt;source src="http://localhost:1313/project/hg-climate-change/PNAS-Hg-summary.mp4" type="video/mp4">
-&lt;/video></description></item><item><title>21世纪气候变化对海洋汞循环的影响</title><link>http://localhost:1313/publication/wang-thesis-2020/</link><pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/wang-thesis-2020/</guid><description/></item></channel></rss>
+&lt;/video>
+&lt;p>Our research offers a broad perspective on this issue, highlighting the intricate interplay of factors, including climate dynamics and ocean ecology. Our findings reveal that while some aspects of climate change exacerbate mercury release, others, such as enhanced photodegradation of methylmercury, may reduce its concentration in seawater and marine life. This could buy us time to mitigate the release of mercury into the environment. Our results underscore the necessity of a holistic approach to studying the impact of climate change, considering both its potential benefits and detriments. This insight is valuable for guiding future policymaking, aligning it with multiple planetary boundaries, and fostering sustainable practices in a changing world.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="Climate change" srcset="
+/project/hg-climate-change/f2_hu14018838963856213193.webp 400w,
+/project/hg-climate-change/f2_hu10413155119242990557.webp 760w,
+/project/hg-climate-change/f2_hu5999016353693452382.webp 1200w"
+src="http://localhost:1313/project/hg-climate-change/f2_hu14018838963856213193.webp"
+width="727"
+height="446"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="Summary" srcset="
+/project/hg-climate-change/featured_hu16490158821945323521.webp 400w,
+/project/hg-climate-change/featured_hu10425428705667988523.webp 760w,
+/project/hg-climate-change/featured_hu3324733506018108328.webp 1200w"
+src="http://localhost:1313/project/hg-climate-change/featured_hu16490158821945323521.webp"
+width="760"
+height="285"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>21世纪气候变化对海洋汞循环的影响</title><link>http://localhost:1313/publication/wang-thesis-2020/</link><pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/wang-thesis-2020/</guid><description/></item></channel></rss>
