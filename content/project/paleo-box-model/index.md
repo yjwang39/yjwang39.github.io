@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: ""
+title: "Mercury Cycle during the Permian-Triassic Mass Extinction: Implications for Climate and Environment"
 summary: ""
 authors: [admin, Ling Li, Yanxu Zhang]
 tags: ["Paleo", "Mercury", "box model"]
@@ -35,3 +35,7 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Hg anomalies identified in geological sediment records commonly coincide with environmental crises, serving as proxies for volcanism. However, previous studies have oversimplified the relationship between volcanic emissions and Hg sediment level, overlooking the feedback mechanisms within the Hg cycle as it interacts with Earth's climate and ecosystems.
+
+This research investigates the mercury cycle during the Permian-Triassic mass extinction, focusing on its climatic and environmental implications. By analyzing geological records and employing advanced modeling techniques, we aim to understand how changes in the mercury cycle influenced ancient ecosystems and contributed to mass extinction events. Our findings will provide insights into the interplay between biogeochemical cycles and climate change, informing current and future environmental policy discussions.

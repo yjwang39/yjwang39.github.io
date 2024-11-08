@@ -170,6 +170,6 @@ awards:
 
 ## About Me
 
-I am a doctoral student at [School of Atmospheric Sciences, Nanjing University](https://as.nju.edu.cn/as_en/), working under the supervision of [Prof. Yanxu Zhang](https://sse.tulane.edu/yanxu-zhang). My research interests lie in understanding how climate change and related policies would influence complex processes within Earth system, particularly the biogeochemical cycles of contaminants. I focus on using numerical models to address these challenges within geosciences. 
+I am a doctoral student at [School of Atmospheric Sciences, Nanjing University](https://as.nju.edu.cn/as_en/), working under the supervision of [Prof. Yanxu Zhang](https://scholar.google.com/citations?user=7QWWXmIAAAAJ). My research interests lie in understanding how climate change and related policies would influence complex processes within Earth system, particularly the biogeochemical cycles of contaminants. I focus on using numerical models to address these challenges within geosciences. 
 
 I earned my bachelor's degree in Atmospheric Sciences from Nanjing University in June 2020, where I joined the [Environmental Biogeochemistry Modeling Group](http://ebmg.online/)  and commenced modeling research to investigate the impact of climate change on marine mercury (Hg).  I am expected to complete my Ph.D. in the summer of 2025.

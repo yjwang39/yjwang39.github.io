@@ -15,7 +15,7 @@ publishDate: '2024-09-08T08:23:16.411120Z'
 publication_types:
 - article-journal
 publication: '*Geoscientific Model Development*'
-doi: 10.5194/gmd-2024-109
+doi: 10.5194/gmd-17-7995-2024
 
 tags: 
  - Aerosol
@@ -36,7 +36,7 @@ image:
   alt_text: 'Schematic representation of the effects of climate change impacts on marine mercury cycling.'
 
 links:
-url_pdf: https://gmd.copernicus.org/preprints/gmd-2024-109/gmd-2024-109.pdf
+url_pdf: https://gmd.copernicus.org/articles/17/7995/2024/gmd-17-7995-2024.pdf
 url_dataset: https://zenodo.org/records/11488849
 url_poster: 'banner.png'
 

@@ -40,7 +40,9 @@ Mercury (Hg) is a persistent global pollutant, and its transformation in the oce
 
 ![Minamata Convention](f3.png)
 
-One concern raised by climate-induced changes in the oceans is the potential increase of neurotoxic methylmercury in seafood. In our study, we examined how global climate change, under a business-as-usual emission scenario, affects the global ocean mercury cycle by integrating data from 3D marine biogeochemical, ecosystem, and Earth system models. We identified several key pathways through which climate change alters marine mercury dynamics. These include reduced air-sea exchange due to weaker winds, decreased particulate organic carbon export affecting mercury deposition, and increased photodemethylation of methylmercury due to higher shortwave radiation. Collectively, these changes suggest a complex interaction between physical, chemical, and biological factors that influence mercury levels in the oceans. *This following video provides a brief illustration of the impact pathways identified in our research.*
+One concern raised by climate-induced changes in the oceans is the potential increase of neurotoxic methylmercury in seafood. In our study, we examined how global climate change, under a business-as-usual emission scenario, affects the global ocean mercury cycle by integrating data from 3D marine biogeochemical, ecosystem, and Earth system models. We identified several key pathways through which climate change alters marine mercury dynamics. These include reduced air-sea exchange due to weaker winds, decreased particulate organic carbon export affecting mercury deposition, and increased photodemethylation of methylmercury due to higher shortwave radiation. Collectively, these changes suggest a complex interaction between physical, chemical, and biological factors that influence mercury levels in the oceans. 
+
+*This following video provides a brief illustration of the impact pathways identified in our research.*
 
 {{< video src="PNAS-Hg-summary.mp4" controls="yes" >}}
 

@@ -25,7 +25,8 @@ height="443"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;p>One concern raised by climate-induced changes in the oceans is the potential increase of neurotoxic methylmercury in seafood. In our study, we examined how global climate change, under a business-as-usual emission scenario, affects the global ocean mercury cycle by integrating data from 3D marine biogeochemical, ecosystem, and Earth system models. We identified several key pathways through which climate change alters marine mercury dynamics. These include reduced air-sea exchange due to weaker winds, decreased particulate organic carbon export affecting mercury deposition, and increased photodemethylation of methylmercury due to higher shortwave radiation. Collectively, these changes suggest a complex interaction between physical, chemical, and biological factors that influence mercury levels in the oceans. &lt;em>This following video provides a brief illustration of the impact pathways identified in our research.&lt;/em>&lt;/p>
+&lt;p>One concern raised by climate-induced changes in the oceans is the potential increase of neurotoxic methylmercury in seafood. In our study, we examined how global climate change, under a business-as-usual emission scenario, affects the global ocean mercury cycle by integrating data from 3D marine biogeochemical, ecosystem, and Earth system models. We identified several key pathways through which climate change alters marine mercury dynamics. These include reduced air-sea exchange due to weaker winds, decreased particulate organic carbon export affecting mercury deposition, and increased photodemethylation of methylmercury due to higher shortwave radiation. Collectively, these changes suggest a complex interaction between physical, chemical, and biological factors that influence mercury levels in the oceans.&lt;/p>
+&lt;p>&lt;em>This following video provides a brief illustration of the impact pathways identified in our research.&lt;/em>&lt;/p>
 &lt;video controls >
 &lt;source src="http://localhost:1313/project/hg-climate-change/PNAS-Hg-summary.mp4" type="video/mp4">
 &lt;/video>
@@ -55,4 +56,4 @@ width="760"
 height="285"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>21世纪气候变化对海洋汞循环的影响</title><link>http://localhost:1313/publication/wang-thesis-2020/</link><pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate><guid>http://localhost:1313/publication/wang-thesis-2020/</guid><description/></item></channel></rss>
+&lt;/p></description></item></channel></rss>
